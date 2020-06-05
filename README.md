@@ -1,2 +1,2 @@
-# personcal
+# personal
 personal website
